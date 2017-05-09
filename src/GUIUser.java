@@ -17,7 +17,7 @@ import java.util.NoSuchElementException;
  *  <p>
  *  Purpose:        Class to contain a User
  *  <p>
- *  Create By:      David Wei
+ *  Create By:      Shruti Khandelwal
  *  Date:           8/3/2016
  *  Last Modified:  Initial Revision
  *  IDE Used:       Intellij 2016.1.3
